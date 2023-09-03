@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: greenyellow;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+    font-size: 222px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+}
+
+.homepage-list {
+    list-style-type:none;
+    text-align: center;
+    font-size: 55px;
+}
+
+.recipe-title {
+    font-size: 110px;
+    text-decoration: underline;
+}
+
+.mac-n-cheese {
+    color: yellow;
+}
+
+.mississippi-chicken {
+    color: wheat;
+}
+
+.chicken-pot-pie {
+    color: burlywood;
+}
